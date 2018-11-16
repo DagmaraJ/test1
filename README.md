@@ -1,2 +1,1 @@
-# test1
-for Denny
+This is a test project
